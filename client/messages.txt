@@ -1,0 +1,6 @@
+Type Diffie hellman
+1. [mode(usrpubkey), nonce, pubkey]
+Receive: [recnonce, servernonce, serverpubkey]
+2. [mode (serencryptednonce), server_encryptednnoce)
+Receive: auth! :)
+_all good_
